@@ -14,7 +14,7 @@
  * limitations under the License.
  * =============================================================================
  */
-
+ 
 //import {TRAINING_DATA2} from 'https://storage.googleapis.com/jmstore/TensorFlowJS/EdX/TrainingData/mnist.js';
 import {TRAINING_DATA} from 'https://storage.googleapis.com/jmstore/TensorFlowJS/EdX/TrainingData/fashion-mnist.js';
 
